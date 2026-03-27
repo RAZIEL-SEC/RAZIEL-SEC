@@ -24,7 +24,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joao.rodriguez.eng@gmail.com&su=Assunto&body=Mensagem" target="_blank" style="border: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="37" alt="gmail logo" style="border: none;" />
   </a>
-  <a href="https://wa.me/21971158183" target="_blank" style="border: none; text-decoration: none;">
+  <a href="https://wa.me/+5521971158183" target="_blank" style="border: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="66" height="37" alt="whatsapp logo" style="border: none;" />
   </a>
   <a href="t.me/raziel_sec" target="_blank" style="border: none; text-decoration: none;">
