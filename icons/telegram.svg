@@ -1,0 +1,7 @@
+<svg width="66" height="37" viewBox="0 0 66 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="66" height="37" rx="4" fill="#2CA5E0"/>
+  <path d="M11 18L25 12L22 25L18 21L15 23L16 19L22 15L15 18.5L11 18Z" fill="none" stroke="white" stroke-width="1.3" stroke-linejoin="round"/>
+  <path d="M18 21L22 25" stroke="white" stroke-width="1.3"/>
+  <path d="M16 19L22 15" stroke="white" stroke-width="1.3"/>
+  <text x="42" y="24" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="white" text-anchor="middle">Telegram</text>
+</svg>
