@@ -9,29 +9,28 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joão-gabriel-rodrigues-662b5b372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/joão-gabriel-rodrigues-662b5b372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="37" alt="linkedin logo" style="border: none; object-fit: cover; object-position: center;" />
   </a>
-  <a href="https://x.com/Raziel_sec?t=Cz5G0fmu6QLCixLXh59jTg&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="35" alt="twitter" />
+  <a href="https://x.com/Raziel_sec?t=Cz5G0fmu6QLCixLXh59jTg&s=09" target="_blank" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="66" height="37" alt="twitter logo" style="border: none; object-fit: cover; object-position: center;" />
   </a>
-  <a href="https://discord.com/users/1137161549442723900" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="35" alt="discord" />
+  <a href="https://discord.com/users/1137161549442723900" target="_blank" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="66" height="37" alt="discord logo" style="border: none; object-fit: cover; object-position: center;" />
   </a>
-  <a href="https://www.instagram.com/rodriguesx.404?igsh=NDhtY3JqbXJwYWE2" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="instagram" />
+  <a href="https://www.instagram.com/rodriguesx.404?igsh=NDhtY3JqbXJwYWE2" target="_blank" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="66" height="37" alt="instagram logo" style="border: none; object-fit: cover; object-position: center;" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joao.rodriguez.eng@gmail.com&su=Assunto&body=Mensagem" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joao.rodriguez.eng@gmail.com&su=Assunto&body=Mensagem" target="_blank" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="37" alt="gmail logo" style="border: none; object-fit: cover; object-position: center;" />
   </a>
-  <a href="https://wa.me/+5521971158183" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="35" alt="whatsapp" />
+  <a href="https://wa.me/+5521971158183" target="_blank" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="66" height="37" alt="whatsapp logo" style="border: none; object-fit: cover; object-position: center;" />
   </a>
-  <a href="https://t.me/raziel_sec" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" height="35" alt="telegram" />
+  <a href="t.me/raziel_sec" target="_blank" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="66" height="37" alt="telegram logo" style="border: none; object-fit: cover; object-position: center;" />
   </a>
 </div>
-
 ###
 
 <div>
