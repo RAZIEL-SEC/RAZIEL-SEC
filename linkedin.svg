@@ -1,0 +1,7 @@
+<svg width="66" height="37" viewBox="0 0 66 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="66" height="37" rx="4" fill="#0A66C2"/>
+  <path d="M14 13.5C14 14.6046 13.1046 15.5 12 15.5C10.8954 15.5 10 14.6046 10 13.5C10 12.3954 10.8954 11.5 12 11.5C13.1046 11.5 14 12.3954 14 13.5Z" fill="white"/>
+  <rect x="10.5" y="17" width="3" height="9.5" rx="0.5" fill="white"/>
+  <path d="M17.5 17H20.5V18.3C21.1 17.4 22.2 16.8 23.5 16.8C25.9 16.8 27.5 18.4 27.5 21V26.5H24.5V21.5C24.5 20.1 23.8 19.3 22.7 19.3C21.5 19.3 20.5 20.2 20.5 21.6V26.5H17.5V17Z" fill="white"/>
+  <text x="33" y="24" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="white" text-anchor="middle">LinkedIn</text>
+</svg>

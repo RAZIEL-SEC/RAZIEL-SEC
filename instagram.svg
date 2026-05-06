@@ -1,0 +1,16 @@
+<svg width="66" height="37" viewBox="0 0 66 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ig" x1="0" y1="37" x2="66" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFDC80"/>
+      <stop offset="25%" stop-color="#FCAF45"/>
+      <stop offset="50%" stop-color="#F77737"/>
+      <stop offset="75%" stop-color="#C13584"/>
+      <stop offset="100%" stop-color="#833AB4"/>
+    </linearGradient>
+  </defs>
+  <rect width="66" height="37" rx="4" fill="url(#ig)"/>
+  <rect x="11" y="10" width="14" height="14" rx="4" stroke="white" stroke-width="1.5" fill="none"/>
+  <circle cx="18" cy="17" r="3.5" stroke="white" stroke-width="1.5" fill="none"/>
+  <circle cx="24" cy="12" r="1" fill="white"/>
+  <text x="42" y="24" font-family="Arial, sans-serif" font-size="9.5" font-weight="700" fill="white" text-anchor="middle">Instagram</text>
+</svg>
